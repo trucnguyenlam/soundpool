@@ -16,7 +16,7 @@ dependencies:
   
   soundpool_platform_interface: 2.1.0
   
-  http: ^0.13.0
+  http: ^0.12.2
 
 dev_dependencies:
   flutter_test:
