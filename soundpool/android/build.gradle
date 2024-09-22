@@ -25,6 +25,8 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace "pl.ukaszapps.soundpool"
+
     compileSdkVersion 31
 
     compileOptions {
